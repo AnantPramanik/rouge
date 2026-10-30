@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.kaggle/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+ComfyUI/
+input/
+output/
+temp/
+.DS_Store
