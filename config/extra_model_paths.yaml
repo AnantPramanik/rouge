@@ -1,0 +1,10 @@
+# Optional example. Adjust paths to match attached Kaggle Dataset layout.
+# ComfyUI supports extra_model_paths.yaml for model directories.
+kaggle_models:
+  base_path: /kaggle/input
+  checkpoints: checkpoints
+  # Add other model categories only if your workflow uses them:
+  # diffusion_models: diffusion_models
+  # text_encoders: text_encoders
+  # vae: vae
+  # loras: loras
